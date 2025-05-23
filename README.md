@@ -16,7 +16,7 @@
 >>**observations:** <br>
 >>-
 >>
->>>Generate updatable variables containing imu and gps data for localization team.<br>
+>>>Send waypoints to QGC with raspi.<br>
 >>>**status:** `NOT STARTED`<br>
 >>>**assigned to:** Auxence<br>
 >>
