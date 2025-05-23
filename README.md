@@ -4,7 +4,7 @@
 
 ## Hardaware team:
 - [Auxence Daillen](https://www.linkedin.com/in/auxence-daillen-32aab7226/)
-- [Max](https://www.linkedin.com/in/nouhaila-elmalouli-46517a208/)
+- [Maximilian Becht](https://www.linkedin.com/in/maximilian-becht-61a929207/)
 - [Salvador Cantuarias](https://www.linkedin.com/in/salvador-cantuarias-bb5715268/?locale=en_US)
 
 ## Tasks:
